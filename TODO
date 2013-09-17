@@ -1,0 +1,2 @@
+getchar.S: fix integer arithmetic in newlines
+disk.S: talk to the disk!
